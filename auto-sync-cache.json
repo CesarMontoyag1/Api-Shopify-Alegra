@@ -1,0 +1,201 @@
+{
+  "bySku": {
+    "77777": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": "alegra",
+      "alegraHash": "{\"qty\":2,\"status\":\"active\",\"name\":\"Buso grande - Beige\",\"description\":\"Proveedor (Shopify): Mi tienda\",\"price\":50000}",
+      "shopifyHash": "{\"qty\":2,\"status\":\"ACTIVE\",\"name\":\"Buso grande - Beige\",\"description\":\"\",\"price\":50000}",
+      "lastShopifyUpdatedAt": 1776788600000
+    },
+    "77778": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": "alegra",
+      "alegraHash": "{\"qty\":1,\"status\":\"active\",\"name\":\"Buso grande - Marrón\",\"description\":\"Proveedor (Shopify): Mi tienda\\nProveedor (Shopify): Mi tienda\",\"price\":50000}",
+      "shopifyHash": "{\"qty\":1,\"status\":\"ACTIVE\",\"name\":\"Buso grande - Marrón\",\"description\":\"\",\"price\":50000}",
+      "lastShopifyUpdatedAt": 1776788600000
+    },
+    "88881": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": "alegra",
+      "alegraHash": "{\"qty\":2,\"status\":\"active\",\"name\":\"JEAN M - Gris / 10\",\"description\":\"JEAN M prueba\\nProveedor (Shopify): Mi tienda\",\"price\":120000}",
+      "shopifyHash": "{\"qty\":2,\"status\":\"ACTIVE\",\"name\":\"JEAN M - Gris / 10\",\"description\":\"JEAN M prueba\",\"price\":120000}",
+      "lastShopifyUpdatedAt": 1776748880000
+    },
+    "88882": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": null,
+      "alegraHash": "{\"qty\":0,\"status\":\"active\",\"name\":\"JEAN M - Gris / 12\",\"description\":\"JEAN M prueba\\nProveedor (Shopify): Mi tienda\",\"price\":120000}",
+      "shopifyHash": "{\"qty\":0,\"status\":\"ACTIVE\",\"name\":\"JEAN M - Gris / 12\",\"description\":\"JEAN M prueba\",\"price\":120000}",
+      "lastShopifyUpdatedAt": 1776748879000
+    },
+    "88883": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": null,
+      "alegraHash": "{\"qty\":0,\"status\":\"active\",\"name\":\"JEAN M - Clara / 10\",\"description\":\"JEAN M prueba\\nProveedor (Shopify): Mi tienda\",\"price\":120000}",
+      "shopifyHash": "{\"qty\":0,\"status\":\"ACTIVE\",\"name\":\"JEAN M - Clara / 10\",\"description\":\"JEAN M prueba\",\"price\":120000}",
+      "lastShopifyUpdatedAt": 1776748879000
+    },
+    "88884": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": null,
+      "alegraHash": "{\"qty\":0,\"status\":\"active\",\"name\":\"JEAN M - Clara / 12\",\"description\":\"JEAN M prueba\\nProveedor (Shopify): Mi tienda\",\"price\":120000}",
+      "shopifyHash": "{\"qty\":0,\"status\":\"ACTIVE\",\"name\":\"JEAN M - Clara / 12\",\"description\":\"JEAN M prueba\",\"price\":120000}",
+      "lastShopifyUpdatedAt": 1776748879000
+    },
+    "882214": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": null,
+      "alegraHash": "{\"qty\":9,\"status\":\"active\",\"name\":\"Conjunto Doble Línea - Beige / S\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\\nProveedor (Shopify): Mi tienda\",\"price\":82000}",
+      "shopifyHash": "{\"qty\":9,\"status\":\"ACTIVE\",\"name\":\"Conjunto Doble Línea - Beige / S\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\",\"price\":82000}",
+      "lastShopifyUpdatedAt": 1776646907000
+    },
+    "882215": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": null,
+      "alegraHash": "{\"qty\":0,\"status\":\"active\",\"name\":\"Conjunto Doble Línea - Beige / M\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\\nProveedor (Shopify): Mi tienda\",\"price\":82000}",
+      "shopifyHash": "{\"qty\":0,\"status\":\"ACTIVE\",\"name\":\"Conjunto Doble Línea - Beige / M\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\",\"price\":82000}",
+      "lastShopifyUpdatedAt": 1776646907000
+    },
+    "882216": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": null,
+      "alegraHash": "{\"qty\":0,\"status\":\"active\",\"name\":\"Conjunto Doble Línea - Beige / L\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\\nProveedor (Shopify): Mi tienda\",\"price\":82000}",
+      "shopifyHash": "{\"qty\":0,\"status\":\"ACTIVE\",\"name\":\"Conjunto Doble Línea - Beige / L\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\",\"price\":82000}",
+      "lastShopifyUpdatedAt": 1776646907000
+    },
+    "882217": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": null,
+      "alegraHash": "{\"qty\":0,\"status\":\"active\",\"name\":\"Conjunto Doble Línea - Marrón / S\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\\nProveedor (Shopify): Mi tienda\",\"price\":82000}",
+      "shopifyHash": "{\"qty\":0,\"status\":\"ACTIVE\",\"name\":\"Conjunto Doble Línea - Marrón / S\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\",\"price\":82000}",
+      "lastShopifyUpdatedAt": 1776646907000
+    },
+    "882218": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": null,
+      "alegraHash": "{\"qty\":0,\"status\":\"active\",\"name\":\"Conjunto Doble Línea - Marrón / M\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\\nProveedor (Shopify): Mi tienda\",\"price\":82000}",
+      "shopifyHash": "{\"qty\":0,\"status\":\"ACTIVE\",\"name\":\"Conjunto Doble Línea - Marrón / M\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\",\"price\":82000}",
+      "lastShopifyUpdatedAt": 1776646907000
+    },
+    "882219": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": null,
+      "alegraHash": "{\"qty\":0,\"status\":\"active\",\"name\":\"Conjunto Doble Línea - Marrón / L\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\\nProveedor (Shopify): Mi tienda\",\"price\":82000}",
+      "shopifyHash": "{\"qty\":0,\"status\":\"ACTIVE\",\"name\":\"Conjunto Doble Línea - Marrón / L\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\",\"price\":82000}",
+      "lastShopifyUpdatedAt": 1776646907000
+    },
+    "882220": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": null,
+      "alegraHash": "{\"qty\":0,\"status\":\"active\",\"name\":\"Conjunto Doble Línea - Negro / S\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\\nProveedor (Shopify): Mi tienda\",\"price\":82000}",
+      "shopifyHash": "{\"qty\":0,\"status\":\"ACTIVE\",\"name\":\"Conjunto Doble Línea - Negro / S\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\",\"price\":82000}",
+      "lastShopifyUpdatedAt": 1776646907000
+    },
+    "882221": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": null,
+      "alegraHash": "{\"qty\":0,\"status\":\"active\",\"name\":\"Conjunto Doble Línea - Negro / M\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\\nProveedor (Shopify): Mi tienda\",\"price\":82000}",
+      "shopifyHash": "{\"qty\":0,\"status\":\"ACTIVE\",\"name\":\"Conjunto Doble Línea - Negro / M\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\",\"price\":82000}",
+      "lastShopifyUpdatedAt": 1776646907000
+    },
+    "882222": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": null,
+      "alegraHash": "{\"qty\":0,\"status\":\"active\",\"name\":\"Conjunto Doble Línea - Negro / L\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\\nProveedor (Shopify): Mi tienda\",\"price\":82000}",
+      "shopifyHash": "{\"qty\":0,\"status\":\"ACTIVE\",\"name\":\"Conjunto Doble Línea - Negro / L\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\",\"price\":82000}",
+      "lastShopifyUpdatedAt": 1776646907000
+    },
+    "882223": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": null,
+      "alegraHash": "{\"qty\":0,\"status\":\"active\",\"name\":\"Conjunto Doble Línea - Bronce / S\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\\nProveedor (Shopify): Mi tienda\",\"price\":82000}",
+      "shopifyHash": "{\"qty\":0,\"status\":\"ACTIVE\",\"name\":\"Conjunto Doble Línea - Bronce / S\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\",\"price\":82000}",
+      "lastShopifyUpdatedAt": 1776646908000
+    },
+    "882224": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": null,
+      "alegraHash": "{\"qty\":0,\"status\":\"active\",\"name\":\"Conjunto Doble Línea - Bronce / M\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\\nProveedor (Shopify): Mi tienda\",\"price\":82000}",
+      "shopifyHash": "{\"qty\":0,\"status\":\"ACTIVE\",\"name\":\"Conjunto Doble Línea - Bronce / M\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\",\"price\":82000}",
+      "lastShopifyUpdatedAt": 1776646908000
+    },
+    "882225": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": null,
+      "alegraHash": "{\"qty\":0,\"status\":\"active\",\"name\":\"Conjunto Doble Línea - Bronce / L\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\\nProveedor (Shopify): Mi tienda\",\"price\":82000}",
+      "shopifyHash": "{\"qty\":0,\"status\":\"ACTIVE\",\"name\":\"Conjunto Doble Línea - Bronce / L\",\"description\":\"Conjunto minimalista en distintos tonos, con detalles en blanco que aportan contraste y un estilo moderno y relajado.\",\"price\":82000}",
+      "lastShopifyUpdatedAt": 1776646907000
+    },
+    "32631215": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": "alegra",
+      "alegraHash": "{\"qty\":1,\"status\":\"inactive\",\"name\":\"Blusa Lujo - Blanco / L\",\"description\":\"Blusa Lujo\\nProveedor (Shopify): Mi tienda\",\"price\":90000}",
+      "shopifyHash": "{\"qty\":1,\"status\":\"DRAFT\",\"name\":\"Blusa Lujo - Blanco / L\",\"description\":\"Blusa Lujo\",\"price\":90000}",
+      "lastShopifyUpdatedAt": 1776748282000
+    },
+    "32631216": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": "shopify",
+      "alegraHash": "{\"qty\":0,\"status\":\"inactive\",\"name\":\"Blusa Lujo - Blanco / M\",\"description\":\"Blusa Lujo\\nProveedor (Shopify): Mi tienda\",\"price\":90000}",
+      "shopifyHash": "{\"qty\":0,\"status\":\"DRAFT\",\"name\":\"Blusa Lujo - Blanco / M\",\"description\":\"Blusa Lujo\",\"price\":90000}",
+      "lastShopifyUpdatedAt": 1776748282000
+    },
+    "32631217": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": "shopify",
+      "alegraHash": "{\"qty\":1,\"status\":\"inactive\",\"name\":\"Blusa Lujo - Negro / L\",\"description\":\"Blusa Lujo\\nProveedor (Shopify): Mi tienda\",\"price\":90000}",
+      "shopifyHash": "{\"qty\":1,\"status\":\"DRAFT\",\"name\":\"Blusa Lujo - Negro / L\",\"description\":\"Blusa Lujo\",\"price\":90000}",
+      "lastShopifyUpdatedAt": 1776748282000
+    },
+    "32631218": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": "shopify",
+      "alegraHash": "{\"qty\":1,\"status\":\"inactive\",\"name\":\"Blusa Lujo - Negro / M\",\"description\":\"Blusa Lujo\\nProveedor (Shopify): Mi tienda\",\"price\":90000}",
+      "shopifyHash": "{\"qty\":1,\"status\":\"DRAFT\",\"name\":\"Blusa Lujo - Negro / M\",\"description\":\"Blusa Lujo\",\"price\":90000}",
+      "lastShopifyUpdatedAt": 1776748282000
+    },
+    "49844141": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": "alegra",
+      "alegraHash": "{\"qty\":2,\"status\":\"inactive\",\"name\":\"ITEM PRUEBA SYNC - Bronce\",\"description\":\"ITEM PRUEBA SYNC PROBANDO\\nProveedor (Shopify): Mi tienda\",\"price\":50000}",
+      "shopifyHash": "{\"qty\":2,\"status\":\"ARCHIVED\",\"name\":\"ITEM PRUEBA SYNC - Bronce\",\"description\":\"ITEM PRUEBA SYNC PROBANDO\",\"price\":50000}",
+      "lastShopifyUpdatedAt": 1776656026000
+    },
+    "49844142": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 0,
+      "lastSource": "alegra",
+      "alegraHash": "{\"qty\":3,\"status\":\"inactive\",\"name\":\"ITEM PRUEBA SYNC - Negro\",\"description\":\"ITEM PRUEBA SYNC PROBANDO\\nProveedor (Shopify): Mi tienda\",\"price\":50000}",
+      "shopifyHash": "{\"qty\":3,\"status\":\"ARCHIVED\",\"name\":\"ITEM PRUEBA SYNC - Negro\",\"description\":\"ITEM PRUEBA SYNC PROBANDO\",\"price\":50000}",
+      "lastShopifyUpdatedAt": 1776656026000
+    },
+    "82245742": {
+      "missingAlegraCount": 0,
+      "missingShopifyCount": 1205,
+      "lastSource": null
+    }
+  }
+}
