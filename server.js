@@ -1,3 +1,4 @@
+// Por construir, corregir el modo bidireccion
 require('dotenv').config();
 const express            = require('express');
 const fetch              = require('node-fetch');
