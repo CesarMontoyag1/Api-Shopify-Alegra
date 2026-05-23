@@ -136,6 +136,7 @@ async function alegraPost(endpoint, body) {
   return res.json();
 }
 
+//Pendiente mejorar
 async function alegraPut(endpoint, body) {
   const res = await fetch(`https://api.alegra.com/api/v1/${endpoint}`, {
     method: 'PUT',
