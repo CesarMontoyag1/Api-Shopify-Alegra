@@ -1,3 +1,4 @@
+# Este repositorio fue una versión muy alpha de lo que se construyó, no se continuara con el desarrollo de este. 
 # Bagatta Sync — Middleware Alegra POS ↔ Shopify
 
 Sincronización bidireccional de inventario entre Alegra POS (tienda física) y Shopify (tienda online).
